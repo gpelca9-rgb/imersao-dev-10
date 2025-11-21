@@ -1,0 +1,209 @@
+[
+{
+    "nome": "Eu sou a lenda",
+    "autor": "Richard Matheson",
+    "descricao": "Horror e ficção científica escrito por Richard Matheson.",
+    "ano": 1954,
+    "link": "https://annas-archive.org/md5/9624778660601ec8f04181cef9625487",
+    "imagem": "Imagens/eusoualenda.jpg",
+    "citacao": "Um novo terror nascido na morte, uma nova superstição entrando na fortaleza inexpugnável do para sempre. Eu sou a lenda."
+},
+{
+    "nome": "Fluam minhas lágrimas, disse o policial",
+    "autor": "Philip K. Dick",
+    "descricao": "Romance de ficção científica escrito por Philip K. Dick.",
+    "ano": 1974,
+    "link": "https://annas-archive.org/md5/2049deac0da87a82a09efd8da3f28f96",
+    "imagem": "Imagens/71KXOKD5g+L._AC_UF1000,1000_QL80_.jpg",
+    "citacao": "Você não pode impedir que seus pensamentos apareçam em seu rosto."
+},
+{
+    "nome": "Drácula",
+    "autor": "Bram Stoker",
+    "descricao": "Romance gótico de terror escrito pelo autor irlandês Bram Stoker.",
+    "ano": 1897,
+    "link": "https://annas-archive.org/md5/1d1f18e610cbebe736f487ebe193a2ff",
+    "imagem": "https://m.media-amazon.com/images/I/81mDS7CO2YL._AC_UF1000,1000_QL80_.jpg",
+    "citacao": "Pois os mortos viajam rápido."
+},
+{
+    "nome": "A Guerra dos Mundos",
+    "autor": "H. G. Wells",
+    "descricao": "Romance de ficção científica escrito pelo autor britânico H. G. Wells.",
+    "ano": 1898,
+    "link": "https://annas-archive.org/md5/4c7fc27f3dab619d972d01badf238516",
+    "imagem": "https://m.media-amazon.com/images/I/91r3rBPFgcS._AC_UF1000,1000_QL80_.jpg",
+    "citacao": "Ninguém teria acreditado, nos últimos anos do século XIX, que este mundo era observado atentamente por inteligências maiores que a do homem."
+},
+{
+    "nome": "Frankenstein",
+    "autor": "Mary Shelley",
+    "descricao": "Romance gótico com inspiração no movimento romântico, escrito pela autora britânica Mary Shelley.",
+    "ano": 1818,
+    "link": "https://annas-archive.org/md5/61ef479a1d46153ae87791a6919122ae",
+    "imagem": "https://m.media-amazon.com/images/I/81-OgmOxScL._AC_UF1000,1000_QL80_.jpg",
+    "citacao": "Não há felicidade para aquele que não está contente em ser o que é."
+},
+{
+    "nome": "A Revolução dos Bichos",
+    "autor": "George Orwell",
+    "descricao": "Novela satírica do escritor inglês George Orwell, que critica o totalitarismo stalinista.",
+    "ano": 1945, 
+    "link": "annas-archive.org/search?q=A+Revolução+dos+Bichos",
+    "imagem": "https://m.media-amazon.com/images/I/91BsZhxCRjL._AC_UF1000,1000_QL80_.jpg",
+    "citacao": "Todos os animais são iguais, mas alguns animais são mais iguais que os outros."
+},
+{
+    "nome": "O Livro dos Cinco Anéis",
+    "autor": "Miyamoto Musashi",
+    "descricao": "Texto sobre Kenjutsu e artes marciais em geral, escrito pelo samurai Miyamoto Musashi.",
+    "ano": 1645,
+    "link": "https://annas-archive.org/search?q=O+Livro+dos+Cinco+Anéis",
+    "imagem": "https://m.media-amazon.com/images/I/71ooMY9q3OL.jpg",
+    "citacao": "Conheça o seu inimigo, conheça a sua espada, conheça a si mesmo."
+},
+{
+    "nome": "A Arte da Guerra",
+    "autor": "Sun Tzu",
+    "descricao": "Tratado militar escrito durante o século IV a.C. pelo estratega chinês conhecido como Sun Tzu.",
+    "ano": -475,
+    "link": "https://annas-archive.org/md5/b5f98f1bc44f0120f3f643c54f62c78e",
+    "imagem": "https://m.media-amazon.com/images/I/51Fe45NGwkL.jpg",
+    "citacao": "A suprema arte da guerra é derrotar o inimigo sem lutar."
+},
+{
+    "nome": "A Metamorfose",
+    "autor": "Franz Kafka",
+    "descricao": "Novela escrita por Franz Kafka, publicada pela primeira vez em 1915.",
+    "ano": 1915,
+    "link": "https://annas-archive.org/md5/f4dea1cdd3e7a7170a7013f59547ebfc",
+    "imagem": "https://m.media-amazon.com/images/I/715JOcuqSSL._AC_UF1000,1000_QL80_.jpg",
+    "citacao": "Quando Gregor Samsa acordou uma manhã de sonhos intranquilos, encontrou-se em sua cama transformado num inseto monstruoso."
+},
+{
+    "nome": "A Morte de Ivan Ilitch",
+    "autor": "Liev Tolstói",
+    "descricao": "Novela do autor russo Liev Tolstói, que explora a vida e a morte de um juiz de alta corte.",
+    "ano": 1886,
+    "link": "https://annas-archive.org/md5/b4eb2b3e0ae214eaf737b2c5d2d0cbc0",
+    "imagem": "https://m.media-amazon.com/images/I/81F311oSqGL._UF1000,1000_QL80_.jpg",
+    "citacao": "E se toda a minha vida tiver sido um erro?"
+},
+{
+    "nome": "Fahrenheit 451",
+    "autor": "Ray Bradbury",
+    "descricao": "Romance distópico de Ray Bradbury que apresenta um futuro onde os livros são proibidos e queimados.",
+    "ano": 1953,
+    "link": "https://annas-archive.org/md5/1ca9b9a3b2412401f3f4501a303deac2",
+    "imagem": "https://m.media-amazon.com/images/I/51tAD6LyZ-L.jpg",
+    "citacao": "É uma boa coisa a se fazer, queimar livros. O mundo está cheio de pessoas que não leram, de analfabetos funcionais."
+},
+{
+    "nome": "O Fim da Infância",
+    "autor": "Arthur C. Clarke",
+    "descricao": "Romance de ficção científica de Arthur C. Clarke sobre a chegada pacífica de alienígenas à Terra.",
+    "ano": 1953,
+    "link": "https://annas-archive.org/md5/49dc62d130d72b16fad458761e130751",
+    "imagem": "https://m.media-amazon.com/images/I/71aSbmu4MzL.jpg",
+    "citacao": "As estrelas não são para o homem."
+},
+{
+    "nome": "1984",
+    "autor": "George Orwell",
+    "descricao": "Romance distópico de George Orwell que descreve uma sociedade sob vigilância totalitária.",
+    "ano": 1949,
+    "link": "https://annas-archive.org/md5/72b18b164f75c509307ab75da1a71076",
+    "imagem": "https://m.media-amazon.com/images/I/819js3EQwbL._AC_UF1000,1000_QL80_.jpg",
+    "citacao": "Guerra é paz. Liberdade é escravidão. Ignorância é força."
+},
+{
+    "nome": "Androides Sonham com Ovelhas Elétricas?",
+    "autor": "Philip K. Dick",
+    "descricao": "Romance de ficção científica de Philip K. Dick que inspirou o filme Blade Runner.",
+    "ano": 1968,
+    "link": "https://annas-archive.org/md5/08dc42de6a1ecd63db75f7b7ba0c21e0",
+    "imagem": "https://m.media-amazon.com/images/I/81EF+PvpetL._AC_UF1000,1000_QL80_.jpg",
+    "citacao": "Meus pensamentos não são meus? Para quem eles pertencem?"
+},
+{
+    "nome": "O Homem do Castelo Alto",
+    "autor": "Philip K. Dick",
+    "descricao": "Romance de história alternativa de Philip K. Dick, que imagina um mundo onde as Potências do Eixo venceram a Segunda Guerra Mundial.",
+    "ano": 1962,
+    "link": "https://annas-archive.org/md5/a881dcc48726ae8ea9abee4ee00a11d0",
+    "imagem": "https://m.media-amazon.com/images/I/71XIOHhYu4L.jpg",
+    "citacao": "A verdade, ela é uma coisa estranha. Pode ser que não haja uma única verdade, mas muitas."
+},
+{
+    "nome": "A Máquina do Tempo",
+    "autor": "H. G. Wells",
+    "descricao": "Romance de ficção científica de H. G. Wells sobre um cientista que viaja para o futuro distante.",
+    "ano": 1895,
+    "link": "https://annas-archive.org/md5/3179905ce2c097be4aedf7b39d2a05d6",
+    "imagem": "https://m.media-amazon.com/images/I/91XAnKe28UL._AC_UF1000,1000_QL80_.jpg",
+    "citacao": "Temos que confessar que todas as coisas reais são coisas que não podemos explicar."
+},
+{
+    "nome": "O Homem Invisível",
+    "autor": "H. G. Wells",
+    "descricao": "Romance de ficção científica de H. G. Wells sobre um cientista que descobre como se tornar invisível.",
+    "ano": 1897,
+    "link": "https://annas-archive.org/md5/7ef0b15f2bc41547c407cce16e97d5a8",
+    "imagem": "https://m.media-amazon.com/images/I/81h3bvau71L._AC_UF1000,1000_QL80_.jpg",
+    "citacao": "Um homem ambicioso não se satisfaz com a mera existência. Ele deve ter fama, poder, domínio."
+},
+{
+    "nome": "O Processo",
+    "autor": "Franz Kafka",
+    "descricao": "Romance póstumo de Franz Kafka que conta a história de um homem preso e processado por uma autoridade remota e inacessível.",
+    "ano": 1925,
+    "link": "https://annas-archive.org/md5/89bfe0fbf176735a6c3e654a5cb0dc97",
+    "imagem": "https://m.media-amazon.com/images/I/81O8mKD8U4L.jpg",
+    "citacao": "É somente porque somos tão limitados em nosso conhecimento que podemos pensar que somos culpados."
+},
+{
+    "nome": "Guerra e Paz",
+    "autor": "Liev Tolstói",
+    "descricao": "Romance histórico de Liev Tolstói, considerado uma das obras mais importantes da literatura mundial.",
+    "ano": 1869,
+    "link": "https://annas-archive.org/md5/6d7d5270b4d5ee686d596c7a3d3e5dd2",
+    "imagem": "https://m.media-amazon.com/images/I/814J+usGFjL._AC_UF1000,1000_QL80_.jpg",
+    "citacao": "A única coisa que sei é que nada sei."
+},
+{
+    "nome": "Anna Karenina",
+    "autor": "Liev Tolstói",
+    "descricao": "Romance de Liev Tolstói que narra a trágica história de uma aristocrata russa em um caso extraconjugal.",
+    "ano": 1877,
+    "link": "https://annas-archive.org/md5/5acb3f1bd1fdc1dcc321348e0e14eae3",
+    "imagem": "https://m.media-amazon.com/images/I/71gDUJXkiuL._AC_UF1000,1000_QL80_.jpg",
+    "citacao": "Todas as famílias felizes se parecem, cada família infeliz é infeliz à sua maneira."
+},
+{
+    "nome": "As Crônicas Marcianas",
+    "autor": "Ray Bradbury",
+    "descricao": "Coletânea de contos de ficção científica de Ray Bradbury que narra a colonização de Marte pelos humanos.",
+    "ano": 1950,
+    "link": "https://annas-archive.org/md5/9127acc8317ff98a9629f56b42e5c178",
+    "imagem": "https://m.media-amazon.com/images/I/91gF0YS+O5L._AC_UF1000,1000_QL80_.jpg",
+    "citacao": "A ciência é apenas uma consequência de nossa ignorância."
+},
+{
+    "nome": "2001: Uma Odisseia no Espaço",
+    "autor": "Arthur C. Clarke",
+    "descricao": "Romance de ficção científica de Arthur C. Clarke, desenvolvido em conjunto com o filme de Stanley Kubrick.",
+    "ano": 1968,
+    "link": "https://annas-archive.org/md5/129cc392e867351a239bd40d6628db8a",
+    "imagem": "https://m.media-amazon.com/images/I/91nXfwXObRL._UF1000,1000_QL80_.jpg",
+    "citacao": "Por trás de todo homem vivo há trinta fantasmas, pois essa é a proporção pela qual os mortos superam os vivos."
+},
+{
+    "nome": "Encontro com Rama",
+    "autor": "Arthur C. Clarke",
+    "descricao": "Romance de ficção científica de Arthur C. Clarke sobre a exploração de uma misteriosa nave alienígena cilíndrica.",
+    "ano": 1973,
+    "link": "https://annas-archive.org/md5/2281770f077be60eea628a466f7fa79c",
+    "imagem": "https://m.media-amazon.com/images/I/61CZXPu2aRL._AC_UF1000,1000_QL80_.jpg",
+    "citacao": "Os ramanos faziam tudo em trios."
+}
+]
