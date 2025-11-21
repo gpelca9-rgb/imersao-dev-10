@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mini Acervo</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        #citacao-footer {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <a href="Index.html" style="line-height: 0;">
+            <img src="Imagens/logo.png" alt="Logo Mini Acervo" class="logo">
+        </a>
+        <label for="busca-acervo" class="sr-only">Buscar no acervo</label>
+        <input id="busca-acervo" type="text" placeholder="Buscar no acervo">
+        <button id="botao-busca">Buscar</button>
+    </header>
+
+<main>
+    <section class="card-container">
+        <!-- Cards são gerados dinamicamente pelo script.js -->
+    </section>
+</main>
+
+<footer class="footer">
+<p id="citacao-footer"></p>
+<ul class="footer-links">
+    <li>
+        <a href="https://www.linkedin.com/in/gpeclat" target="_blank" rel="noopener noreferrer">linkedin</a>
+    </li>
+    <li>
+        <a href="https://x.com/Peclatpeclat" target="_blank" rel="noopener noreferrer">twitter</a>
+    </li>
+</ul>
+    </footer>
+
+    <!-- Modal para detalhes do livro e comentários -->
+    <div id="comment-modal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <div id="modal-book-details">
+                <!-- Detalhes do livro serão inseridos aqui pelo JS -->
+            </div>
+            <div class="comment-section">
+                <h3>Comentários</h3>
+                <form id="comment-form">
+                    <textarea id="comment-text" placeholder="Deixe seu comentário..." required></textarea>
+                    <button type="submit">Comentar</button>
+                </form>
+                <div id="comments-list">
+                    <!-- Lista de comentários será inserida aqui -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
